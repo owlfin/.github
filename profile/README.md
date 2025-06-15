@@ -40,7 +40,7 @@ We aim to contribute to the TON ecosystem by showcasing what a well-designed, fa
 
 We believe in **verifiability** and **on-chain trust**.
 
-🔗 [View the TON Smart Contracts (public)](https://github.com/owlfin/ton-contracts)
+🔗 [View the TON Smart Contracts (coming soon)]
 
 This repo includes core logic for:
 - SessionPool
