@@ -4,13 +4,11 @@
 
 We’re building a system where active participation, strategic trading, and consistent contribution are fairly rewarded — not just capital size.
 
----
 
 ## 🎯 Our Mission
 
 To create a transparent, fair, and gamified financial platform where traders, stakers, and the broader community benefit together.
 
----
 
 ## 🛠️ What We’re Building
 
@@ -26,7 +24,6 @@ To create a transparent, fair, and gamified financial platform where traders, st
 - Point-based minting ensures contribution-first economy
 - Token utility includes staking, treasury share, and campaign access
 
----
 
 ## 🪙 Why TON?
 
@@ -38,7 +35,6 @@ We chose TON for its:
 
 We aim to contribute to the TON ecosystem by showcasing what a well-designed, fair DeFi project can look like.
 
----
 
 ## 🧾 Our Smart Contract Repo
 
@@ -52,13 +48,11 @@ This repo includes core logic for:
 - Treasury
 - Token Minting + Burn
 
----
 
 ## 🪄 Grant Participation
 
 We are preparing for the upcoming **TON Grant round** to accelerate Owlfin Arena’s development and roll out community campaigns backed by transparent on-chain logic.
 
----
 
 ## 🌐 Project Links
 
